@@ -12,3 +12,6 @@ RDFLib을 사용하여 개념/인스턴스/관계를 모델링하고, networkx/g
 rdflib (https://github.com/RDFLib)
 networkx (https://github.com/networkx/networkx)
 graphviz (https://gitlab.com/graphviz/graphviz)
+
+# 참고
+현재 아이디어은 성소정, 최소원로부터 시작되었습니다.
