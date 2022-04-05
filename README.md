@@ -15,3 +15,7 @@ graphviz (https://gitlab.com/graphviz/graphviz)
 
 # 참고
 현재 아이디어은 성소정, 최소원로부터 시작되었습니다. 
+
+## jy_branch
+neo4j 사용할 
+우리 팀은 미디어믹스 지식그래프 함.
